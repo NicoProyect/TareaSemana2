@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TareaSemana2</string>
+    <string name="formulario">Complete el Formulario</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripcion de contacto</string>
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="editar">EDITAR</string>
+
+
+</resources>
